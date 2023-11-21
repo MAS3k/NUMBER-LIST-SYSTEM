@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+box-sizing: border-box;
+background :linear-gradient(45deg,  rgba(138, 212, 117, 0.582) 60%, rgba(225, 166, 166, 0.484)40%)
+ ;
+
+ 
+}
+section{
+    display: flex;
+justify-content: center;
+align-items: center;
+height: 70vh;
+}
